@@ -1,1 +1,3 @@
-
+Logistic Regression to carry out basic sentiment analysis on a dataset of movies.
+Reviews were read by the program and categorised as 1 (good) or 0 (bad).
+Sigmoid function was used and for all cases where a score of 0.7 (7 on 10) or greater was obtained, was classified as good.
