@@ -1,2 +1,2 @@
 Binary classifier to differentiate between cats and dogs. Pre-trained weights of the MobileNetV2 were used. The top layer however, was not implemented.
-An accuracy of about 95% was obtained after training the model for just one epoch. Sigmoid activation function was used. 
+An accuracy of about 95% was obtained on the validation set after training the model for just one epoch. Sigmoid activation function was used. 
