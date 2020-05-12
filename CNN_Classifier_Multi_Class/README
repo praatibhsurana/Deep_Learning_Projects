@@ -1,1 +1,4 @@
+A model made to make 10 different image classifications. Data from the CIFAR-10 dataset was used. A validation accuracy of about 88% 
+was obtained after running for 10 epochs. Accuracy can be further increased if the number of epochs are increased.Pre-trained weights
+(Adam optimizer) were used and there was no transfer learning.
 
