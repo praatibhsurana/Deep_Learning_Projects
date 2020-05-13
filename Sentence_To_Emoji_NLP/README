@@ -1,1 +1,13 @@
+The "glove.6B.50d.txt" dataset was used for this project.
+GloVe is an unsupervised learning algorithm for obtaining vector representations for words. 
+Training is performed on aggregated global word-word co-occurrence statistics from a corpus, and the resulting representations 
+showcase interesting linear substructures of the word vector space.
 
+Apart from this, a pre coded python file was used to carry out word to vector mappings and vice versa.
+It also consisted of functions for one hot vector conversions etc.
+
+An accuracy of 100% was obtained on the training set and a validation accuracy of 91% was obtained.
+At the end of the program, a few random examples are tried to highlight that this model is still not good enough 
+with complex sentences as it does not make use of LSTMs.
+This is a very basic project and can be further enhanced to make use of more than just the five emojis that were used
+and return better, more accurate predictions.
